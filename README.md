@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Hi there, I'm Camila 👋
+# Hi there, I'm Raúl and I'm computer system engineering 👋
 
 :computer: Frontend Developer (and Backend-ish)
 :mexico: Living in México

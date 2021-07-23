@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I have not met a person that has more listened minutes in their spotify wrapped than me.
 
 <p>
-  <a href="#"><img src="https://github-readme-stats-nine-ashen.vercel.app/api?username=ingrauladolfo&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats-nine-ashen.vercel.app/api?username=ingrauladolfo&show_icons=true&count_private=true&theme=dark" width="500"></a>
 </p>
 
 ### :zap: Recent Activity
